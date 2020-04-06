@@ -104,3 +104,26 @@ Explanation: Buy on day 2 (price = 1) and sell on day 3 (price = 5), profit = 5-
 
 *[Solution](https://github.com/ankitvashisht12/30DaysOfLeetCode/blob/master/Day-5.cpp)*
 
+
+**Day 6. [Group Anagrams](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3288/)**
+
+Description :
+```
+Given an array of strings, group anagrams together.
+
+Example:
+
+Input: ["eat", "tea", "tan", "ate", "nat", "bat"],
+Output:
+[
+  ["ate","eat","tea"],
+  ["nat","tan"],
+  ["bat"]
+]
+Note:
+
+- All inputs will be in lowercase.
+- The order of your output does not matter.
+```
+
+*[Solution](https://github.com/ankitvashisht12/30DaysOfLeetCode/blob/master/Day-6.py)*
