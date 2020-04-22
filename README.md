@@ -202,6 +202,7 @@ The number of nodes in the given list will be between 1 and 100.
 
 
 **Day 9. [Backspace string compare](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3291/)**
+
 Description :
 ```
 Given two strings S and T, return if they are equal when both are typed into empty text editors. # means a backspace character.
@@ -341,6 +342,7 @@ Note: The length of the given binary array will not exceed 50,000.
 *[Solution](https://github.com/ankitvashisht12/30DaysOfLeetCode/blob/master/Day-13.cpp)*
 
 **Day 14. [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)**
+
 Description : 
 ```
 You are given a string s containing lowercase English letters, and a matrix shift, where shift[i] = [direction, amount]:
@@ -433,6 +435,7 @@ The string size will be in the range [1, 100].
 *[Solution](https://github.com/ankitvashisht12/30DaysOfLeetCode/blob/master/Day-16.cpp)*
 
 **Day 17. [Number of Islands](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3302/)**
+
 Description : 
 
 ```
@@ -585,3 +588,21 @@ mat[i] is sorted in a non-decreasing way.
 ```
 
 *[Solution](https://github.com/ankitvashisht12/30DaysOfLeetCode/blob/master/Day-21.cpp)*
+
+
+**Day 22. [Subarray Sum Equals K](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3307/)**
+
+Description :
+
+```
+Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals to k.
+
+Example 1:
+Input:nums = [1,1,1], k = 2
+Output: 2
+Note:
+The length of the array is in range [1, 20,000].
+The range of numbers in the array is [-1000, 1000] and the range of the integer k is [-1e7, 1e7].
+```
+
+*[Solution](https://github.com/ankitvashisht12/30DaysOfLeetCode/blob/master/Day-22.cpp)*
