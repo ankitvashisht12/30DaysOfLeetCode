@@ -728,3 +728,24 @@ The input strings consist of lowercase English characters only.
 ```
 
 *[Solution](https://github.com/ankitvashisht12/30DaysOfLeetCode/blob/master/Day-26.cpp)*
+
+**Day 27.[Maximal Square](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3312/)**
+
+Description : 
+
+```
+Given a 2D binary matrix filled with 0's and 1's, find the largest square containing only 1's and return its area.
+
+Example:
+
+Input: 
+
+1 0 1 0 0
+1 0 1 1 1
+1 1 1 1 1
+1 0 0 1 0
+
+Output: 4
+```
+
+*[Solution](https://github.com/ankitvashisht12/30DaysOfLeetCode/blob/master/Day-27.cpp)*
