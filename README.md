@@ -859,7 +859,7 @@ Output: 42
 
 *[Solution](https://github.com/ankitvashisht12/30DaysOfLeetCode/blob/master/Day-29.cpp)*
 
-**Day 30. [heck If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3315/)**
+**Day 30. [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3315/)**
 
 Description : 
 
